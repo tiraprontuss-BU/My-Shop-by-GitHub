@@ -1,7 +1,7 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
+  "shopName": "mumimim",
+  "owner": "ทิราภรณ์",
+  "studentId": "1680701859",
   "ownerPhone": "081-234-5678",
   "products": [
     {
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "นมเย็น",
+      "price": 55,
+      "emoji": "🥤",
+      "available": false,
+      "tags": ["นม" , "เย็น"]
     }
   ]
 }
